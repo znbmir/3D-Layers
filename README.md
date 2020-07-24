@@ -1,2 +1,2 @@
 # Game-Projects
-I put my game projects in this repository
+It is a simple hyper casual game
